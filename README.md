@@ -20,7 +20,7 @@ Download 'lecture.pdf'.
 - No delayed submission
 - The score is automatically uncovered right after the due date.
 - Claims: within 2 weeks from the due date, please.
-- You must use the lastest version of Scala (2.13.0).
+- You must use the lastest version of Scala (2.13.3).
 <!--- - [Instruction for submission](https://github.com/snu-sf-class/pp201802/issues/7) -->
 
 |No. | Published     | Due       	| Description                   	 	 	 	 	 	 	 	 	 	  	|
@@ -31,7 +31,7 @@ Download 'lecture.pdf'.
 
 ### Questions
 
-- Ask questions in the [GitHub repository issue tracker](https://github.com/snu-sf-class/pp201902/issues).
+- Ask questions in the [GitHub repository issue tracker](https://github.com/snu-sf-class/pp202002/issues).
     + When you post a piece of source code, use ["fenced code blocks" feature](https://help.github.com/articles/creating-and-highlighting-code-blocks/)
       * Like this:
       ```
@@ -41,9 +41,9 @@ Download 'lecture.pdf'.
     + Or, you can use [GitHub Gist](https://gist.github.com/).
 
 ### Scala
-- Latest version: [2.13.0](https://www.scala-lang.org/)
+- Latest version: [2.13.3](https://www.scala-lang.org/)
 - Use IDEs to write a Scala program.
-    + IntelliJ IDEA, Eclipse, etc
+    + IntelliJ IDEA, Eclipse, Atom, etc
     + Reading 'Scala setting.pdf' will be helpful.
 
 #### Honor Code: *DO NOT CHEAT*
