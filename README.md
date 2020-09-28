@@ -6,6 +6,7 @@
     + Email address: pp@sf.snu.ac.kr
 
 ## Announcements
+- Sep 29: [HW1](https://github.com/snu-sf-class/pp202002-private/tree/master/assignments/hw1) is out. (Due date: 10/9(FRI) 23:59)
 
 ##  Lecture slide updates
 
@@ -25,7 +26,7 @@ Download 'lecture.pdf'.
 
 |No. | Published     | Due       	| Description                   	 	 	 	 	 	 	 	 	 	  	|
 |----|------------	|------------	|----------------------	|
-
+| 1 | 09/29     	| 10/9 23:59    | Basics                                                            	|
 
 ## Must Read
 
