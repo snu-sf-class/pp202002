@@ -7,7 +7,7 @@
 
 ## Announcements
 - Sep 29: [HW1](https://github.com/snu-sf-class/pp202002-private/tree/master/assignments/hw1) is out. (Due date: 10/9(FRI) 23:59)
-
+- Oct 5: submission announced
 ##  Lecture slide updates
 
 Download 'lecture.pdf'.
@@ -23,6 +23,8 @@ Download 'lecture.pdf'.
 - Claims: within 2 weeks from the due date, please.
 - You must use the lastest version of Scala (2.13.3).
 - Please check [errata](https://github.com/snu-sf-class/pp202002/issues/5) regularly
+- Visit http://147.46.242.53:12345 and log-in with your id (e.g. 2016-12345). Your initial password is equivalent to your id.
+- Zip your src folder which includes Main.scala and upload it.
 <!--- - [Instruction for submission](https://github.com/snu-sf-class/pp201802/issues/7) -->
 
 |No. | Published     | Due       	| Description                   	 	 	 	 	 	 	 	 	 	  	|
