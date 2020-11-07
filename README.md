@@ -9,6 +9,7 @@
 - Sep 29: [HW1](https://github.com/snu-sf-class/pp202002-private/tree/master/assignments/hw1) is out. (Due date: 10/9(FRI) 23:59)
 - Oct 5: submission announced
 - Oct 20: midterm exam announced
+- Nov 07: [HW2](https://github.com/snu-sf-class/pp202002-private/tree/master/assignments/hw2) is out. (Due date: 11/20(THU) 23:59)
 
 ##  Lecture slide updates
 
@@ -32,6 +33,7 @@ Download 'lecture.pdf'.
 |No. | Published     | Due       	| Description                   	 	 	 	 	 	 	 	 	 	  	|
 |----|------------	|------------	|----------------------	|
 | 1 | 09/29     	| 10/9 23:59    | Basics                                                            	|
+| 2 | 11/07     	| 10/20 23:59    | Algebraic Data Types                                                            	|
 
 ## Must Read
 
