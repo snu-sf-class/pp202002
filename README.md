@@ -33,7 +33,7 @@ Download 'lecture.pdf'.
 |No. | Published     | Due       	| Description                   	 	 	 	 	 	 	 	 	 	  	|
 |----|------------	|------------	|----------------------	|
 | 1 | 09/29     	| 10/9 23:59    | Basics                                                            	|
-| 2 | 11/07     	| 10/20 23:59    | Algebraic Data Types                                                            	|
+| 2 | 11/07     	| 11/20 23:59    | Algebraic Data Types                                                            	|
 
 ## Must Read
 
