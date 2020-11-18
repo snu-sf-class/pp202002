@@ -10,6 +10,7 @@
 - Oct 5: submission announced
 - Oct 20: midterm exam announced
 - Nov 07: [HW2](https://github.com/snu-sf-class/pp202002-private/tree/master/assignments/hw2) is out. (Due date: 11/20(FRI) 23:59)
+- Nov 19: today's class(11/19) canceled
 
 ##  Lecture slide updates
 
