@@ -12,6 +12,7 @@
 - Nov 07: [HW2](https://github.com/snu-sf-class/pp202002-private/tree/master/assignments/hw2) is out. (Due date: 11/20(FRI) 23:59)
 - Nov 19: today's class(11/19) canceled
 - Nov 24: [HW3](https://github.com/snu-sf-class/pp202002-private/tree/master/assignments/hw3) is out. (Due date: 12/4(FRI) 23:59)
+- Nov 29: [Project](https://github.com/snu-sf-class/pp202002-private/tree/master/project) is out. (Due date: 12/19(SAT) 23:59)
 
 ##  Lecture slide updates
 
@@ -37,6 +38,7 @@ Download 'lecture.pdf'.
 | 1 | 09/29     	| 10/9 23:59    | Basics                                                            	|
 | 2 | 11/07     	| 11/20 23:59    | Algebraic Data Types                                                            	|
 | 3 | 11/24     	| 12/4 23:59    | OOP                                                            	|
+| P | 11/29     	| 12/19 23:59    | OOP                                                            	|
 
 ## Must Read
 
