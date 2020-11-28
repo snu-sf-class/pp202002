@@ -38,7 +38,7 @@ Download 'lecture.pdf'.
 | 1 | 09/29     	| 10/9 23:59    | Basics                                                            	|
 | 2 | 11/07     	| 11/20 23:59    | Algebraic Data Types                                                            	|
 | 3 | 11/24     	| 12/4 23:59    | OOP                                                            	|
-| P | 11/29     	| 12/19 23:59    | OOP                                                            	|
+| P | 11/29     	| 12/19 23:59    | Type class & Language Interpreter                                 	|
 
 ## Must Read
 
