@@ -13,6 +13,7 @@
 - Nov 19: today's class(11/19) canceled
 - Nov 24: [HW3](https://github.com/snu-sf-class/pp202002-private/tree/master/assignments/hw3) is out. (Due date: 12/4(FRI) 23:59)
 - Nov 29: [Project](https://github.com/snu-sf-class/pp202002-private/tree/master/project) is out. (Due date: 12/19(SAT) 23:59)
+- Dec 1: [final exam](https://github.com/snu-sf-class/pp202002/issues/23) announced (Dec 13(SUN) 18:00)
 
 ##  Lecture slide updates
 
